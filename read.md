@@ -17,7 +17,7 @@ Instruction to setup:
   1.Scala test has been used to test this application :src/test/scala/com.clearscore.casestudy.tests/def_tests.scala
   2.Please place the provided test input files in correct path as memtioned in test scala file.
   
-  Test and corresponding Files:
+  Test and corresponding Files. test_input.zip file is provided for the input files :
   1.Test of question1 - To check the total numbers of average credit score. Please use the files from def1_input folder.
   2.Test of question2 - To check number of users by employment status. Please use the files from def2_input folder.
   3.Test of question3 - To check the number of score ranges in the input data. Please use the files from def3_input folder.
