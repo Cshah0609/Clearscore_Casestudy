@@ -2,14 +2,14 @@ This is Scala Spark application for Clearscore case study.
 Instruction to setup:
   1.Import the project using build.sbt file.
   2.Buld the projet to ensure all the dependencies are fetched.
-  3.Place the accounts and reports in local directory.
+  3.Place the accounts and reports input files in local directory.
   4.Change the input file directory path in run_exe.scala at line number 30 and 41 for reports and accounts respectively.
   5.Also, provide the output files diretory at line number 67,88,128 and 164 . Make sure the last sub-directory doesn't exsits already. This is where all
   the ouptut CSVs will be generated.
   
   Running the Spark Application:
-    1.In Run Configuration, provide the class name and jdk used for the project.
-    2.Provide the run configuration.
+    1.In Run Configuration, select Application and provide the class name and jdk used for the project.
+    2.Provide the run configuration name.
     3.Run the application using the setup configured.
     
     
