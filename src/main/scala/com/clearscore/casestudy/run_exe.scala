@@ -1,6 +1,6 @@
-package com.clearscore.test
+package com.clearscore.casestudy
 
-import com.clearscore.test.etlcommon.createSparkSession
+import com.clearscore.casestudy.etlcommon.createSparkSession
 import org.apache.spark.sql.{SparkSession,DataFrame}
 import org.apache.spark.sql.functions.{col, _}
 

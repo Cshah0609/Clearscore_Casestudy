@@ -1,4 +1,4 @@
-package com.clearscore.test
+package com.clearscore.casestudy
 
 import org.apache.spark.sql.SparkSession
 

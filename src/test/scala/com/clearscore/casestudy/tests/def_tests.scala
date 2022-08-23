@@ -1,10 +1,10 @@
 package com.clearscore.casestudy.tests
 
-import com.clearscore.test.etlcommon.createSparkSession
+import com.clearscore.casestudy.etlcommon.createSparkSession
 import org.apache.spark.sql.{DataFrame, SparkSession}
 import org.scalatest.{BeforeAndAfter, ScalaTestVersion}
 import org.scalatest.funsuite.AnyFunSuite
-import com.clearscore.test.run_exe._
+import com.clearscore.casestudy.run_exe._
 
 
 class def_tests extends AnyFunSuite with BeforeAndAfter{
